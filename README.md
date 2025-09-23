@@ -1,4 +1,3 @@
-# README.md
 
 # Agentic AI Internship – Teaser Video Automation
 
