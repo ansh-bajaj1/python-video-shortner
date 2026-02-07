@@ -1,5 +1,5 @@
 
-# Agentic AI Internship – Teaser Video Automation
+# Agentic AI  – Teaser Video Automation
 
 This repository contains the implementation for creating a **2–3 minute teaser video** from a full-length YouTube video using **Python, Whisper, Hugging Face Transformers, and FFmpeg**.  
 
